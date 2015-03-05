@@ -4,6 +4,9 @@
 .sass-cache
 .settings
 .tmproj
+_site
+Gemfile
+Gemfile.lock
 nbproject
 Thumbs.db
 node_modules
